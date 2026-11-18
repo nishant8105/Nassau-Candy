@@ -1,0 +1,8 @@
+{
+    "Target": "Monthly Sales",
+    "MAE": 1088.8688888888898,
+    "R2": 0.8065837833722413,
+    "Baseline_MAE": 4271.6627777777785,
+    "Months_Used_For_Final_Model": 24,
+    "Last_Month": "2025-12"
+}
